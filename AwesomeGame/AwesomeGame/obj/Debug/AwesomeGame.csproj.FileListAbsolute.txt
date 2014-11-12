@@ -1,0 +1,11 @@
+C:\Users\mqm\Documents\Visual Studio 2013\Projects\AwesomeGame\AwesomeGame\bin\Debug\AwesomeGame.exe.config
+C:\Users\mqm\Documents\Visual Studio 2013\Projects\AwesomeGame\AwesomeGame\bin\Debug\AwesomeGame.exe
+C:\Users\mqm\Documents\Visual Studio 2013\Projects\AwesomeGame\AwesomeGame\bin\Debug\AwesomeGame.pdb
+C:\Users\mqm\Documents\Visual Studio 2013\Projects\AwesomeGame\AwesomeGame\obj\Debug\AwesomeGame.GameView.resources
+C:\Users\mqm\Documents\Visual Studio 2013\Projects\AwesomeGame\AwesomeGame\obj\Debug\AwesomeGame.Properties.Resources.resources
+C:\Users\mqm\Documents\Visual Studio 2013\Projects\AwesomeGame\AwesomeGame\obj\Debug\AwesomeGame.csproj.GenerateResource.Cache
+C:\Users\mqm\Documents\Visual Studio 2013\Projects\AwesomeGame\AwesomeGame\obj\Debug\AwesomeGame.exe
+C:\Users\mqm\Documents\Visual Studio 2013\Projects\AwesomeGame\AwesomeGame\obj\Debug\AwesomeGame.pdb
+C:\Users\mqm\Documents\GitHub\AwesomeGame\AwesomeGame\AwesomeGame\bin\Debug\AwesomeGame.exe.config
+C:\Users\mqm\Documents\GitHub\AwesomeGame\AwesomeGame\AwesomeGame\obj\Debug\AwesomeGame.exe
+C:\Users\mqm\Documents\GitHub\AwesomeGame\AwesomeGame\AwesomeGame\obj\Debug\AwesomeGame.pdb
